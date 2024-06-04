@@ -1,0 +1,4 @@
+name: ${name}
+main: de.Paul.Main
+version: ${version}
+api-version: 1.17
