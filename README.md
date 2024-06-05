@@ -12,9 +12,9 @@
 </div>
 <h3><b>Always give credit to me!</b></h3>
 <p>
-  <a href="https://github.com/CarsCupcake/SkyblockRemake/issues">Report Bugs</a>
+  <a href="https://github.com/JxstPaul/GameAPI/issues">Report Bugs</a>
   ·
-  <a href="https://github.com/CarsCupcake/SkyblockRemake/blob/master/README.md"><strong>Explore the wiki »</strong></a>
+  <a href="https://github.com/JxstPaul/GameAPI/blob/master/README.md"><strong>Explore the wiki »</strong></a>
 </p>
 
 For Minecraft Spigot 1.17 / Requires Java 17
