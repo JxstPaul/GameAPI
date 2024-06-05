@@ -11,3 +11,6 @@
   </a>
 </div>
 <h3><b>Always give credit to me!</b></h3>
+<a href="https://github.com/CarsCupcake/SkyblockRemake/issues">Report Bugs</a>
+·
+<a href="https://github.com/CarsCupcake/SkyblockRemake/blob/master/README.md"><strong>Explore the wiki »</strong></a>
