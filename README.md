@@ -10,3 +10,4 @@
     <img alt="license" src="https://img.shields.io/github/license/JxstPaul/GameAPI?color=F&style=flat-square" />
   </a>
 </div>
+<h3><b>Always give credit to me!</b></h3>
