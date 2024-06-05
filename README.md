@@ -48,4 +48,3 @@ For Minecraft Spigot 1.17 / Requires Java 17
 - Minecraft Spigot 1.17
 
 ### Installation
-## About the Project
