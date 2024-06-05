@@ -16,4 +16,5 @@
   ·
   <a href="https://github.com/CarsCupcake/SkyblockRemake/blob/master/README.md"><strong>Explore the wiki »</strong></a>
 </p>
+
 For Minecraft Spigot 1.17 / Requires Java 17
