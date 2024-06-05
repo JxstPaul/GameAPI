@@ -1,4 +1,4 @@
-# GameAPI
+# GameAPI v1
 <div id="top">
   <a href="https://github.com/JxstPaul/GameAPI/releases/" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/v/release/JxstPaul/GameAPI?color=F&style=flat-square" />
@@ -37,3 +37,5 @@ For Minecraft Spigot 1.17 / Requires Java 17
     <li><a href="#contributing">Contributing</a></li>
   </ol>
 </details>
+
+## About the Project
