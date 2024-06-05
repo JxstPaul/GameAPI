@@ -30,10 +30,10 @@ For Minecraft Spigot 1.17 / Requires Java 17
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#implementing">Implementing</li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
